@@ -46,10 +46,11 @@
       <li>:open_file_folder:1st Semester
     <ul>
       <li><a href="https://github.com/raduceaca1234/collective-project">Collective Project</a></li>
-       <li><a href="https://github.com/alexovidiupopa/flcd">Formal Languages and Compiler Design</a></li>
+      <li><a href="https://github.com/alexovidiupopa/flcd">Formal Languages and Compiler Design</a></li>
       <li><a href="https://github.com/alexovidiupopa/mobile">Mobile Applications</a></li>
       <li><a href="https://github.com/alexovidiupopa/pdp">Parallel and Distributed Programming</a></li>
       <li><a href="https://github.com/alexovidiupopa/cryptography">Public Key Cryptography</a></li>
+      <li><a href="https://github.com/alexovidiupopa/spcn">Specialized Protocols in Computer Networks</a></li>
     </ul>
       </li>
     </ul>
