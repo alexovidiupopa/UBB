@@ -53,6 +53,14 @@
       <li><a href="https://github.com/alexovidiupopa/spcn">Specialized Protocols in Computer Networks</a></li>
     </ul>
       </li>
+      <li>:open_file_folder:2nd Semester
+    <ul>
+      <li><a href="https://github.com/alexovidiupopa/design-patterns">Design Patterns</a></li>
+      <li><a href="https://github.com/alexovidiupopa/calculus">Numerical Calculus</a></li>      
+      <li><a href="https://github.com/alexovidiupopa/thesis">Thesis Preparation</a></li>
+      <li><a href="https://github.com/alexovidiupopa/ssvv">Software Systems Validation and Verification</a></li>
+    </ul>
+      </li>
     </ul>
   </li>
   </ul>
